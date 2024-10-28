@@ -1,6 +1,6 @@
 # ApiRestFull-ScotiaBank
 
-LoremPumsen
+**[Repositorio Frontend](https://github.com/GORENTFUC/Scotia-Tech-Frontend-V2)**
 
 ## Repositorios
 **[Repositorio Backend](https://github.com/jsliscano/Scotia-Tech-Teacher-Form-Backend)**
